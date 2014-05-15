@@ -1,0 +1,17 @@
+{
+  "item": [
+    "sublime",
+    "sublime.View",
+    "sublime.Selection",
+    "sublime.Region",
+    "sublime.Edit",
+    "sublime.Window",
+    "sublime.Settings",
+    "sublime_plugin",
+    "sublime_plugin.EventListener",
+    "sublime_plugin.ApplicationCommand",
+    "sublime_plugin.WindowCommand",
+    "sublime_plugin.TextCommand",
+  ]
+}
+
